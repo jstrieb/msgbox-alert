@@ -12,8 +12,14 @@ because of its simplicity to program and call.
 
 # Installation
 
+[Download
+`alert.exe`](https://github.com/jstrieb/msgbox-alert/releases/download/v0.1/alert.exe)
+from the Releases Page and add the file to the `PATH`.
+
 <details>
-<summary>Click here to view installation details</summary>
+
+<summary>Click here to view instructions to compile from source</summary>
+
 The following steps are assumed to be run from within a Windows Subsytem for
 Linux Bash environment with Microsoft Visual C Compiler (MSVC) executables on
 the `PATH`. In particular, compilation is done with `cl.exe`, but would
